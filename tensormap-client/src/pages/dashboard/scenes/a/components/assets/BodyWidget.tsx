@@ -25,10 +25,8 @@ import Avatar from '@material-ui/core/Avatar';
 import {withStyles} from '@material-ui/core';
 import styles       from './BodyWidget.styles';
 //import FileSaver from 'file-saver';
-import { baseURL } from '../../../../../../config';
-
 import socketIOClient from "socket.io-client";
-
+import { baseURL } from '../../../../../../config';
 
 var _ = require('lodash')
 
