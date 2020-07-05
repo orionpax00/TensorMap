@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tensormap/static/css/main.cd486b66.chunk.css",
+    "main.js": "/Tensormap/static/js/main.2e4180fd.chunk.js",
+    "main.js.map": "/Tensormap/static/js/main.2e4180fd.chunk.js.map",
+    "runtime~main.js": "/Tensormap/static/js/runtime~main.1076447c.js",
+    "runtime~main.js.map": "/Tensormap/static/js/runtime~main.1076447c.js.map",
+    "static/js/2.37e9e96a.chunk.js": "/Tensormap/static/js/2.37e9e96a.chunk.js",
+    "static/js/2.37e9e96a.chunk.js.map": "/Tensormap/static/js/2.37e9e96a.chunk.js.map",
+    "index.html": "/Tensormap/index.html",
+    "precache-manifest.04082adecd19494603c777bba8edadbc.js": "/Tensormap/precache-manifest.04082adecd19494603c777bba8edadbc.js",
+    "service-worker.js": "/Tensormap/service-worker.js",
+    "static/css/main.cd486b66.chunk.css.map": "/Tensormap/static/css/main.cd486b66.chunk.css.map",
+    "static/media/GitHubicon.svg": "/Tensormap/static/media/GitHubicon.76d344f0.svg",
+    "static/media/upload.png": "/Tensormap/static/media/upload.2f608422.png"
+  }
+}
